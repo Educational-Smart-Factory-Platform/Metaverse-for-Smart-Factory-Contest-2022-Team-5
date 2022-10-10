@@ -1,4 +1,4 @@
-# Metaverse-for-Smart-Factory-Contest-2022-Team-5-RanGuayTeaw
+# Metaverse for Smart Factory Contest 2022
 ผลงานการแข่งขัน Metaverse for Smart Factory Contest 2022 (https://smartfactory.hcilab.net/contest/metaverse2022/)
 ## ชื่อผลงาน แฟกทิเกรต(Factegrate)
 ### ที่มาและความสำคัญ
@@ -24,4 +24,19 @@
 
 ![Screenshot (827)](https://user-images.githubusercontent.com/114386015/194354258-51be06ba-e3d9-4ee6-9cde-f4632fe681f9.png)
 
+### คลิปสาธิตผลงาน
 https://youtu.be/odf0Kl2lWZI
+
+## รายชื่อสมาชิกทีม RanGuayTeaw
+1. พลอยชมพู ตุลสุข
+2. วสุพล เฮงศรีธวัช
+3. ธีรวัฒน์ เชื้อพันธ์งาม
+4. กฤติน ถิระศักดิ์
+5. ปิยะวัชร์ หมื่นศรี
+6. ธัชพงศ์ สังข์ถาวร
+7. ชรันธร พิมลจินดา
+8. รวิน เอกภาณุศิริ
+9. นภัสสร เตชะสมบูรณากิจ
+10. จิราวรรณ ประทุมใจอ่อน
+### ช่องทางการติดต่อ
+Email: ploychomphu.ths@gmail.com 
